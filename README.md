@@ -2,7 +2,7 @@ This Project is part of ITI AI and ML 9-month diploma: time series final project
 # Overview
 This project addresses a Kaggle time series forecasting problem. The objective is to predict future values based on historical data using both statistical and machine learning approaches. The final model is evaluated using the competition’s official metric and submitted to Kaggle.
 # Project Structure
-.
+```.
 ├── data/                      # Raw, processed, and external datasets
 ├── notebooks/                 # Jupyter notebooks for analysis and modeling
 ├── src/                       # Python modules for preprocessing, modeling, etc.
@@ -10,6 +10,8 @@ This project addresses a Kaggle time series forecasting problem. The objective i
 ├── requirements.txt           # List of Python dependencies
 ├── kaggle_score.txt           # Final Kaggle submission score
 └── README.md                  # Project summary 
+```
+
 
 # Description
 Rossmann operates over 3,000 drug stores in 7 European countries. Currently, Rossmann store managers are tasked with predicting their daily sales for up to six weeks in advance. Store sales are influenced by many factors, including promotions, competition, school and state holidays, seasonality, and locality. With thousands of individual managers predicting sales based on their unique circumstances, the accuracy of results can be quite varied.
